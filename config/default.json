@@ -1,4 +1,6 @@
 {
     "mongoURI":"mongodb+srv://ben:Benloveisa13@devconnector-ztkql.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "Benloveisa13"
+    "jwtSecret": "Benloveisa13",
+    "githubClientId": "f754cf008e7fc7ed9f6e",
+    "githubSecret": "d5218718de831d67493fb7644f43b3556024d3eb"
 }
